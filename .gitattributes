@@ -1,0 +1,5 @@
+* text=auto eol=lf
+*.SerumPreset binary
+*.mid binary
+*.bin binary
+*.png binary
